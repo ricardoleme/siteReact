@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/siteReact/static/js/main.19e2ac72.chunk.js",
-    "main.js.map": "/siteReact/static/js/main.19e2ac72.chunk.js.map",
+    "main.js": "/siteReact/static/js/main.67dcbaf5.chunk.js",
+    "main.js.map": "/siteReact/static/js/main.67dcbaf5.chunk.js.map",
     "runtime-main.js": "/siteReact/static/js/runtime-main.cc7b0e4e.js",
     "runtime-main.js.map": "/siteReact/static/js/runtime-main.cc7b0e4e.js.map",
-    "static/js/2.0c7da648.chunk.js": "/siteReact/static/js/2.0c7da648.chunk.js",
-    "static/js/2.0c7da648.chunk.js.map": "/siteReact/static/js/2.0c7da648.chunk.js.map",
+    "static/js/2.ff6e3a5e.chunk.js": "/siteReact/static/js/2.ff6e3a5e.chunk.js",
+    "static/js/2.ff6e3a5e.chunk.js.map": "/siteReact/static/js/2.ff6e3a5e.chunk.js.map",
     "index.html": "/siteReact/index.html",
-    "precache-manifest.bb0a4af79ef128581668177698a19fce.js": "/siteReact/precache-manifest.bb0a4af79ef128581668177698a19fce.js",
+    "precache-manifest.89dddcd9c6660b7477cc63c115643d42.js": "/siteReact/precache-manifest.89dddcd9c6660b7477cc63c115643d42.js",
     "service-worker.js": "/siteReact/service-worker.js",
-    "static/js/2.0c7da648.chunk.js.LICENSE.txt": "/siteReact/static/js/2.0c7da648.chunk.js.LICENSE.txt"
+    "static/js/2.ff6e3a5e.chunk.js.LICENSE.txt": "/siteReact/static/js/2.ff6e3a5e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cc7b0e4e.js",
-    "static/js/2.0c7da648.chunk.js",
-    "static/js/main.19e2ac72.chunk.js"
+    "static/js/2.ff6e3a5e.chunk.js",
+    "static/js/main.67dcbaf5.chunk.js"
   ]
 }
